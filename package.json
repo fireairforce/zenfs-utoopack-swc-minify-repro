@@ -1,0 +1,18 @@
+{
+  "name": "utoopack-example-demo",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "build": "up build",
+    "dev": "up dev"
+  },
+  "dependencies": {
+    "@zenfs/core": "^2.5.4"
+  },
+  "devDependencies": {
+    "@utoo/pack": "1.3.7",
+    "@utoo/pack-cli": "1.3.7"
+  }
+}
